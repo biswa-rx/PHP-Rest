@@ -1,0 +1,13 @@
+POST http://localhost/practice/v1/registerUser.php
+Content-Type: application/x-www-form-urlencoded
+
+    username=gg
+    &password=33
+    &email= fgg@gmail.com
+
+###
+POST http://localhost/practice/v1/userLogin.php
+Content-Type: application/x-www-form-urlencoded
+
+    username=gg
+    &password=33
